@@ -1,0 +1,28 @@
+<oefening title=“hoʻāʻo hōʻike nīnau maʻa mau”>
+<vraag>
+<vraagstelling>He aha ke kumu o ka hoʻohana ʻana i kēia mea?</vraagstelling>
+<antwoord>
+Hiki ke hōʻike a hūnā i nā pane o nā nīnau maʻa mau aiʻole haʻawina aʻo. Ma ke kīkē ʻana ma ka nīnau e hōʻike aiʻole hūnā ana i ka pane.
+</antwoord>
+</vraag>
+<vraag>
+<vraagstelling>Akā he waihoʻoluʻu a kinona hua ponoʻī kaʻu ma koʻu kahua pūnāwelewele uila?</vraagstelling>
+<antwoord>
+Hiki nō ke hoʻololi waihoʻoluʻu a kinona hua ma ka mahele koho o kēia mea.
+</antwoord>
+</vraag>
+<vraag>
+<vraagstelling>How do I get my QA in the gadget?</vraagstelling>
+<antwoord>
+Good Question. You can type a url to an xml-file in one of the options of the gadget. This xml-file has to have a specific structure.
+</antwoord>
+</vraag>
+<vraag>
+<vraagstelling>
+Well, please can you give me an example of this xml-file?
+</vraagstelling>
+<antwoord>
+Of course: http://hosting.gmodules.com/ig/gadgets/file/114039339319885904355/faq_gadget.xml
+</antwoord>
+</vraag>
+</oefening>
